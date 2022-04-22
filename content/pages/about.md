@@ -17,5 +17,5 @@ los caminos de la vida no son como yo pensaba, no son como imaginaba...
 también tengo bastante interés en la tecnología, y el momento es ahora, este es mi pequeño gran paso a este maravilloso 
 mundo. Let's a go 
  
- ![image](https://github.com/JaquelineJT/my_launchx_blog/blob/master/docs/images/1Xq8.gif) 
+ ![image](<div class="tenor-gif-embed" data-postid="15551799" data-share-method="host" data-aspect-ratio="1" data-width="100%"><a href="https://tenor.com/view/cotton-candy-girl-too-much-sugar-sugar-overload-gif-15551799">Cotton Candy Girl GIF</a>from <a href="https://tenor.com/search/cotton+candy-gifs">Cotton Candy GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>) 
 
