@@ -2,20 +2,20 @@
 title: 'About me'
 menu:
   main:
-    name: "AboutMe"
+    name: "About Me"
 ---
 
-## Who am I
+## Hola, me llamo Jaqueline
 
-Hola, aquí vas a leer un poco sobre mi 🤩
+Aquí vas a leer un poco sobre mi 🤩
 
-> Excidit gente, si orat suo quaeque dura Calydon nata? Pars auro post stetit
-> adfusique imis amplexus. Agmina per fabricator
-> mittere Erymanthon habetque tot.
+> Fortuna favet fortibus.
 
-**Cineres Nile ipsa** origine discurrunt adest Unde, et quem clausus, imo,
-virens quoque tales, potuit. Ingentes insilit corpore nutricis praebebat roganti
-licuit. Denique a vestros adulantum in bella lina parte et arte generi di igitur
-quis, digitis pedes. Cum resonant tamen, namque in anxia. Non nostri trahens
-ancora.
+**Soy Jackie** estudié Letras Clásicas, aunque desde niña siempre quise estudiar Diseño Gráfico, 
+pero los caminos de la vida no son como yo pensaba, no son como imaginaba...
+  En fin, siempre me ha gustado ser todologa y aunque mi alma tira más hacia lo artistíco y filosófico,
+ también tengo bastante interés en la tecnología, y el momento es ahora, este es mi pequeño gran paso a este maravilloso 
+ mundo. Let's a go 
+ 
+  
 
